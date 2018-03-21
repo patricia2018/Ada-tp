@@ -1,0 +1,51 @@
+*{margin: 0;
+padding: 0;}
+
+.margen{border-style: solid;
+       width: 1800px;
+       height: 900px;
+       background: withe;}
+.container{
+	width: 810px;
+	height: 810px;
+	background: withe;
+	margin: 0.5em auto;
+  position: relative;}
+
+.cuadrado1, .cuadrado3, .cuadrado5 , .cuadrado7, .cuadrado9{width: 264px;
+	                                                        height: 264px;
+	                                                        background: #FF7474;}
+.cuadrado2, .cuadrado4,.cuadrado6, .cuadrado8{width: 264px;
+	                                         height: 264px;
+	                                         background: #ECEAEA;}
+
+.cuadrado1{position: absolute;
+           top: 0;
+           }
+.cuadrado2{position: absolute;
+           top: 0;
+           left: 273px;}
+.cuadrado3{position: absolute;
+           top: 0;
+           right: 0;}
+ .cuadrado4{position: absolute;
+            top: 273px;}
+ .cuadrado5{position: absolute;
+            top: 273px;
+            left: 273px;}
+.cuadrado6{position: absolute;
+            top: 273px;
+            right: 0;}
+ .cuadrado7{position: absolute;
+           bottom: 0;}
+ .cuadrado8{position: absolute;
+            bottom: 0;
+            left: 273px;}
+ .cuadrado9{position: absolute;
+ 	          bottom: 0;
+ 	          right: 0;}
+h2{font-size: 0.75em;
+margin-top: 100px;}
+
+.cruz1{z-index:2}
+.cruz2{z-index:3}
