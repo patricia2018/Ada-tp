@@ -1,0 +1,47 @@
+*{margin: 0;
+padding: 0;}
+
+.container{
+  width: 1200px;
+  height: 1000px;
+  background: #D8D8D8;
+  margin: 0.5em auto;
+  padding: 0.5em;
+  position: relative;
+}
+.logo{
+  height:  10%;
+  background:#A4A4A4;
+  margin: 1em;
+}
+.nav, .footer{
+  height: 5%;
+  background:#A4A4A4;
+  margin: 1em;
+}
+.banner{
+  height: 30%;
+  background:#A4A4A4;
+  margin: 1em;
+}
+.contenido{
+  height: 40%;
+  background:#A4A4A4;
+  margin: 1em;
+}
+.sidebar{ 
+height:  95%;
+width: 25%;
+background:#424242;
+float: left;
+margin: 0em;
+
+ }
+ .bodyarea{ 
+height:  95%;
+width: 68%;
+background:#424242;
+float: right;
+margin: 0em;
+}
+
