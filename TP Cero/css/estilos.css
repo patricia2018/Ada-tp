@@ -1,0 +1,26 @@
+*{margin: 0;
+padding: 0;}
+
+
+.margen{border-style: solid;
+       width: 1550px;
+       height: 600px;
+       background: withe;
+       position:relative;
+       text-align: center;
+       }
+
+
+h1{margin-top: 20px;}
+.portada{margin-top: 30px;}
+
+.aceptar{text-align: center;
+margin-top: 20px;}
+
+.redes{left: 1380px;
+       top: 500px;
+       position: absolute;}
+
+h2{font-size: 0.75em;
+  font-family: Arial, "light";
+  margin-top: 50px;}
