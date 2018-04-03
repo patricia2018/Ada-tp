@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?24jj0w');
+  src:  url('fonts/icomoon.eot?24jj0w#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?24jj0w') format('truetype'),
+    url('fonts/icomoon.woff?24jj0w') format('woff'),
+    url('fonts/icomoon.svg?24jj0w#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-align-justify:before {
+  content: "\e900";
+}
+.icon-chevron-down:before {
+  content: "\e901";
+}
+.icon-chevron-left:before {
+  content: "\e902";
+}
+.icon-chevron-right:before {
+  content: "\e903";
+}
+.icon-chevron-up:before {
+  content: "\e904";
+}
+.icon-facebook3:before {
+  content: "\e905";
+  color: #3b5998;
+}
+.icon-googleplus:before {
+  content: "\e906";
+  color: #dc4e41;
+}
+.icon-instagram2:before {
+  content: "\e907";
+  color: #e4405f;
+}
+.icon-invision:before {
+  content: "\e908";
+  color: #f36;
+}
+.icon-twitter2:before {
+  content: "\e909";
+  color: #1da1f2;
+}
+.icon-vimeo2:before {
+  content: "\e90a";
+  color: #1ab7ea;
+}
+.icon-youtube2:before {
+  content: "\e90b";
+  color: #f00;
+}
+.icon-home3:before {
+  content: "\e90c";
+}
+.icon-bubble:before {
+  content: "\e96b";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+.icon-heart:before {
+  content: "\e9da";
+}
+.icon-share2:before {
+  content: "\ea82";
+}
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+.icon-google-plus2:before {
+  content: "\ea8c";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-vimeo:before {
+  content: "\eaa0";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}

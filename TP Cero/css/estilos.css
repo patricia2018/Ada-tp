@@ -1,26 +1,39 @@
 *{margin: 0;
-padding: 0;}
+padding: 0;
+ margin: 0 auto;}
 
 
 .margen{border-style: solid;
        width: 1550px;
-       height: 600px;
+       height: 800px;
        background: withe;
        position:relative;
        text-align: center;
        }
 
 
-h1{margin-top: 20px;}
-.portada{margin-top: 30px;}
+h1{margin-top: 20px;
+  margin-left: 180px;
+   font-family: 'Arimo', sans-serif;
+
+
+}
+.portada{margin-top: 30px;
+}
 
 .aceptar{text-align: center;
-margin-top: 20px;}
+margin-top: 80px;}
 
 .redes{left: 1380px;
        top: 500px;
-       position: absolute;}
+       position: absolute;
+       margin: 20px;
+     margin-top: 80px;}
 
 h2{font-size: 0.75em;
   font-family: Arial, "light";
-  margin-top: 50px;}
+  margin-top: 50px;
+ font-family: 'Arimo', sans-serif;}
+ 
+ .aceptar{ font-family: 'Arimo', sans-serif;
+ margin-top: 120px;}
